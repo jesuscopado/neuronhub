@@ -13,7 +13,7 @@ hero: "/images/hero-3.jpg"
 excerpt: Todos conocemos a alguien que padece o ha padecido la enfermedad de Alzheimer, patología que constituye entre el 60 y 80% de los casos de demencia (Purves, 2004). *Leer más*
 timeToRead: 8
 authors:
-  - Juan García Ruíz
+  - Juan Garcia
 ---
 
 
