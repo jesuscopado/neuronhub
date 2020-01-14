@@ -1,0 +1,60 @@
+baseurl         = ""
+theme           = "hugo-theme-novela"
+languageCode    = "es"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "neuronhub"
+  subtitle    = "Entiende la neurociencia"
+
+  cover       = "neuronhub-cover.jpeg"
+  description = "El objetivo de este blog es reunir el conocimiento que se ha generado en el ámbito de la neurociencia en todo el mundo. En un contexto en el que los neuromitos se extienden a una velocidad deslumbrante, este blog se compromete a derrumbarlos y a compartir con los lectores información fiable."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "neuronhub"
+  fbName = "neuronhub"
+  githubName = ""
+
+  logo = ""
+  orgName = ""
+  orgWebsite = ""
+  orgDescription = ""
+
+  author = "Juan Garcia"
+  authorAvatar = "img/juan-garcia.jpeg"
+  authorLocation = "Toulouse, Francia"
+  authorWebsite = "https://neuronhub.org"
+  authorDescription = ""
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Go"
+  url = "/tags/golang/"
+  weight = 100
+
+[[menu.main]]
+  name = "Food"
+  url = "/categories/food/"
+  weight = 99
+
+[[menu.main]]
+  name = "External"
+  url = "https://google.com/"
+  weight = 95
