@@ -12,7 +12,7 @@ tags:
 - enfermedad neurodegenerativa
 - neurociencia
 - neurona motora
-hero: "/images/hero-6.jpg"
+hero: "/img/4.jpeg"
 excerpt: Todo el mundo recuerda a Stephen Hawking como uno de los grandes físicos de los últimos tiempos. Todos compartimos la imagen de un lucidísimo científico cuyas importantes restricciones físicas, como su incapacidad de caminar o de hablar, son compensadas por su inteligencia sin límites. De la misma forma, todos estamos familiarizados con el f
 timeToRead: 8
 authors:

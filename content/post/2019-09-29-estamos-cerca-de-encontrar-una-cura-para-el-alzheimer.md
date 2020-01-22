@@ -10,7 +10,7 @@ tags:
 - cura
 - neurodegeneración
 - terapia
-hero: "/images/hero-5.jpg"
+hero: "/img/3.jpeg"
 excerpt: Nuestro conocimiento sobre la enfermedad de Alzheimer es limitado y está muy fragmentado. Como dato ilustrativo de este hecho, cabe recordar que a finales de 2018, un empresario de Tejas ofreció un premio de 4 millones de euros a aquel que hiciera un repaso de todas las publicaciones científicas sobre el Alzheimer y propusiera una teoría unificadora para explicar su etiología (Begley, 2018). Este empresario estaba convencido de que la clave...
 timeToRead: 8
 authors:

@@ -15,7 +15,7 @@ tags:
 - Investigación
 - neurodegeneración
 - tratamiento
-hero: "/images/hero-6.jpg"
+hero: "/img/9.jpeg"
 excerpt: ¿Sabías que una de las guerras más sangrientas que se están llevando a cabo en este instante está ocurriendo en tu intestino? Más de tres billones de bacterias se enfrentan a un número similar de bacteriófagos (virus) en una batalla sin
 timeToRead: 8
 authors:

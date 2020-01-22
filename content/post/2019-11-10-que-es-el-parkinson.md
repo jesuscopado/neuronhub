@@ -13,7 +13,7 @@ tags:
 - neurodegeneración
 - Parkinson
 - síntomas
-hero: "/images/hero-3.jpg"
+hero: "/img/10.jpeg"
 excerpt: Hace dos siglos (1817), José Zorrilla nacía en Valladolid para regalarle a la humanidad su _Don Juan Tenorio_. Mientras tanto, en Varsovia, un niño de 7 años conocido como Fryderyk Chopin componía su primera obra para piano
 timeToRead: 8
 authors:

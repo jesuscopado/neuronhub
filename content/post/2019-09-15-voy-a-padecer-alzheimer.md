@@ -12,7 +12,7 @@ tags:
 - etiología
 - factores de riesgo
 - medidas
-hero: "/images/hero-4.jpg"
+hero: "/img/2.jpeg"
 excerpt: Al día siguiente no mu
 timeToRead: 8
 authors:
