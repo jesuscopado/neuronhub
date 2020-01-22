@@ -28,7 +28,7 @@ Nuestro conocimiento sobre la enfermedad de Alzheimer es limitado y está muy fr
 
 
 
-**¿Cuál es el gran problema? **
+**¿Cuál es el gran problema?**
 
 
 

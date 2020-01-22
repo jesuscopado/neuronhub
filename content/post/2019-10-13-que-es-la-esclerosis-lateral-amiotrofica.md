@@ -167,14 +167,8 @@ Según Boeynaems, la proteína responsable de la ELA es la TDP-43. TDP es una pr
 
 
 ![](https://nervousystemhome.files.wordpress.com/2019/10/3-1.png?w=783)
-
-
-
-
-
-
-  * ![](https://nervousystemhome.files.wordpress.com/2019/10/3.1.png?w=813)
-_ Figura 3. Representación esquemática de una célula sana (arriba) y de una célula aberrante (abajo). En condiciones normales, la proteína TDP se encuentra mayoritariamente en el interior del núcleo. La acumulación de TDP en el citoplasma da lugar a una interrupción de los procesos necesarios de expresión de proteínas, y acaba desencadenando una muerte celular. Según esta hipótesis, las neuronas motoras superior e inferior tienen este problema, y la concentración proteica daría lugar a la neurodegeneración. Los músculos que dejan de ser inervados por las neuronas motoras comienzan a atrofiarse, ocasionando los problemas de movilidad voluntaria característicos de la ELA. _ 
+![](https://nervousystemhome.files.wordpress.com/2019/10/3.1.png?w=813)
+_Figura 3_. Representación esquemática de una célula sana (arriba) y de una célula aberrante (abajo). En condiciones normales, la proteína TDP se encuentra mayoritariamente en el interior del núcleo. La acumulación de TDP en el citoplasma da lugar a una interrupción de los procesos necesarios de expresión de proteínas, y acaba desencadenando una muerte celular. Según esta hipótesis, las neuronas motoras superior e inferior tienen este problema, y la concentración proteica daría lugar a la neurodegeneración. Los músculos que dejan de ser inervados por las neuronas motoras comienzan a atrofiarse, ocasionando los problemas de movilidad voluntaria característicos de la ELA.
 
 
 

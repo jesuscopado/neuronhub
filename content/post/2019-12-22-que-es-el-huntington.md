@@ -34,7 +34,7 @@ En 1775, un ciclón tropical acabó con el 90% de la población de la isla de Pi
 
 
 ![](https://nervousystemhome.files.wordpress.com/2019/12/oroluk_island_akk.jpg?w=1024)
-Figura 1. Isla de Pingelap.
+_Figura 1_. Isla de Pingelap.
 
 
 
@@ -58,7 +58,7 @@ Un siglo más tarde, en el mismo continente, tuvo lugar otro curioso caso de efe
 
 
 
-**La enfermedad** **de Huntington**
+**La enfermedad de Huntington**
 
 
 
@@ -98,7 +98,7 @@ En cuanto a los problemas cognitivos, los estadios avanzados de Huntington se ca
 
 
 
-**El Huntington en cifras **
+**El Huntington en cifras**
 
 
 
@@ -114,7 +114,7 @@ La incidencia del Huntington es de 0,38 por cada 100.000 personas al año. Aplic
 
 
 
-**Biologia del Huntington **
+**Biologia del Huntington**
 
 
 
@@ -131,7 +131,7 @@ La enfermedad del Huntington se caracteriza por la repetición anormal (36 veces
 
 
 ![](https://nervousystemhome.files.wordpress.com/2019/12/ucsc_human_chromosome_colours.png?w=1024)
-Figura 2. 23 pares de cromosomas humanos. El par de cromosomas 4, el afectado por la mutación del Huntington, ha sido representado en rojo.
+_Figura 2_. 23 pares de cromosomas humanos. El par de cromosomas 4, el afectado por la mutación del Huntington, ha sido representado en rojo.
 
 
 
@@ -156,7 +156,7 @@ La neurodegeneración tiene lugar principalmente en el núcleo caudado y el puta
 
 
 ![](https://nervousystemhome.files.wordpress.com/2019/12/schematic_illustration_of_projection_fibers_esp.jpg?w=1024)
-Figura 3. Representación de los ganglios basales. El estriado dorsal, que incluye el putamen, el globo pálido y el núcleo caudado, ha sido representado en verde. Esta estructura es la principal afectada por la neurodegeneración del Huntington.
+_Figura 3_. Representación de los ganglios basales. El estriado dorsal, que incluye el putamen, el globo pálido y el núcleo caudado, ha sido representado en verde. Esta estructura es la principal afectada por la neurodegeneración del Huntington.
 
 
 
@@ -188,7 +188,7 @@ La prueba genética que permite predecir la aparición o diagnosticar la enferme
 
 
 
-**Lo que sabes y lo que no **
+**Lo que sabes y lo que no**
 
 
 

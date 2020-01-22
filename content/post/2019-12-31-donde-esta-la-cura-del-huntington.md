@@ -34,7 +34,7 @@ authors:
 
 
 ![](https://nervousystemhome.files.wordpress.com/2019/12/800px-phage.jpg?w=800)
-Figura 1. Micrografía mostrando una serie de bacteriófagos anclados a la superficie de una bacteria.
+_Figura 1._ Micrografía mostrando una serie de bacteriófagos anclados a la superficie de una bacteria.
 
 
 
@@ -56,7 +56,8 @@ Por el momento, no existe cura para el Huntington. Todo lo que puede hacerse a l
 
 
 
-  * Tratamiento para los problemas de movimiento asociados al Huntington: en la actualidad se utilizan antipsicóticos como la risperidona y el haloperidol, u otros como la amantadina, el levetiracetam y clorazepam, capaces de disminuir los movimientos coréicos. La mayoría de medicamentos traen consigo efectos secundarios como somnolencia, rigidez muscular, y una disminución de la concentración.  * Tratamiento para la depresión asociada al Huntington: medicamentos como la nortriptilina, el citalopram, la fluoxetina, y la sertralina consiguen aliviar los síntomas emocionales relacionados con el Huntington.
+  * Tratamiento para los problemas de movimiento asociados al Huntington: en la actualidad se utilizan antipsicóticos como la risperidona y el haloperidol, u otros como la amantadina, el levetiracetam y clorazepam, capaces de disminuir los movimientos coréicos. La mayoría de medicamentos traen consigo efectos secundarios como somnolencia, rigidez muscular, y una disminución de la concentración. 
+  * Tratamiento para la depresión asociada al Huntington: medicamentos como la nortriptilina, el citalopram, la fluoxetina, y la sertralina consiguen aliviar los síntomas emocionales relacionados con el Huntington.
 
 
 

@@ -96,7 +96,7 @@ Una vez precisada la necesidad de evitar el reduccionismo, resulta apropiado men
 
 
 ![](https://nervousystemhome.files.wordpress.com/2019/09/imagen-1.jpg?w=471)
-Figura 1. Fotografía mostrando placas amiloide (flecha negra) y ovillos neurofibrilares (flecha roja). Imagen extraída de Hashim (2010)
+_Figura 1_. Fotografía mostrando placas amiloide (flecha negra) y ovillos neurofibrilares (flecha roja). Imagen extraída de Hashim (2010)
 
 
 

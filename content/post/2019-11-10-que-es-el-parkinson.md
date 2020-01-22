@@ -32,7 +32,7 @@ Hace dos siglos (1817), José Zorrilla nacía en Valladolid para regalarle a la 
 
 
 ![](https://nervousystemhome.files.wordpress.com/2019/11/figura-1.png?w=242)
-_Figura 1. Portada del ensayo publicado en 1817 en el que James Parkinson describió por primera vez los síntomas de la enfermedad de Parkinson_
+_Figura 1_. Portada del ensayo publicado en 1817 en el que James Parkinson describió por primera vez los síntomas de la enfermedad de Parkinson
 
 
 
@@ -174,7 +174,7 @@ frecuente tras el Alzheimer (Chou, 2017).
 
 
 ![](https://nervousystemhome.files.wordpress.com/2019/11/figura-3.png?w=1024)
-_Figura 3. _Figura extraída del sitio web del INE (2018). Distribución de la población española mayor de 60 años, clasificada por grupos de edad de 5 años.  
+_Figura 3_. Figura extraída del sitio web del INE (2018). Distribución de la población española mayor de 60 años, clasificada por grupos de edad de 5 años.
 
 
 
@@ -197,7 +197,7 @@ Las neuronas dopaminérgicas de la _sustancia negra_ se comunican con otra regi�
 
 
 ![](https://nervousystemhome.files.wordpress.com/2019/11/figura-4.jpg?w=1024)
-_Figura 4_. Representación esquemática de las vías nigroestatal, mesolímbica y mesocortical, así como diversas estructuras cerebrales implicadas. En el caso del Parkinson, la vía afectada es la nigroestratal (en rojo), impidiendo la comunicación neuronal entre la sustancia negra y el cuerpo estriado.  
+_Figura 4_. Representación esquemática de las vías nigroestatal, mesolímbica y mesocortical, así como diversas estructuras cerebrales implicadas. En el caso del Parkinson, la vía afectada es la nigroestratal (en rojo), impidiendo la comunicación neuronal entre la sustancia negra y el cuerpo estriado.
 
 
 

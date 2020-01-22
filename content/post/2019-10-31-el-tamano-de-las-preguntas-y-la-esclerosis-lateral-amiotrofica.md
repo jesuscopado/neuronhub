@@ -120,7 +120,7 @@ _Figura 2_. Localización subcelular de la proteína TDP-43. Imagen extraida de 
 
 
 ![](https://nervousystemhome.files.wordpress.com/2019/11/333333333-1.png?w=393)
-Figura 3. Representación tridimensional de la proteína TDP-43. Imagen extraida de UniProt (2018)
+_Figura 3_. Representación tridimensional de la proteína TDP-43. Imagen extraida de UniProt (2018)
 
 
 
@@ -330,7 +330,7 @@ Las mutaciones mencionadas más arriba relacionadas con la ELA afectan principal
 
 
 
-**Nota: la hipótesis del párrafo precedente es personal, no ha sido extraída de ningún artículo (al contrario que el resto del contenido), y no es la única posibilidad. El objetivo es ilustrar esta importante parte de la investigación: la reflexión. Sin esta etapa, las respuestas a las pequeñas preguntas no son más que informaciones aisladas y alejadas de la pregunta principal. **
+**Nota: la hipótesis del párrafo precedente es personal, no ha sido extraída de ningún artículo (al contrario que el resto del contenido), y no es la única posibilidad. El objetivo es ilustrar esta importante parte de la investigación: la reflexión. Sin esta etapa, las respuestas a las pequeñas preguntas no son más que informaciones aisladas y alejadas de la pregunta principal.**
 
 
 
